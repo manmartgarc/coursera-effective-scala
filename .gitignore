@@ -3,3 +3,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.scala-build
+*.DS_Store
+*.swp
+*~
+*.class
+*.tasty
+target/
+logs/
+.bloop
+.dotty-ide-artifact
+.dotty-ide.json
+.idea
+.metals
+.vscode
+*.csv
+*.dat
+.bsp/
+project/
+null/
