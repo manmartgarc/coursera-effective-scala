@@ -22,3 +22,16 @@ logs/
 .bsp/
 project/
 null/
+.bloop
+.bsp
+.metals
+.vscode
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
