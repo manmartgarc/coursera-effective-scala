@@ -1,4 +1,4 @@
-package week6
+package week6.ErrorHandling
 
 import scala.io.Source
 import scala.util.{Using, Try, Success, Failure}

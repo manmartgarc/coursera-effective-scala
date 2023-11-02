@@ -1,4 +1,4 @@
-package week6
+package week6.ErrorHandling
 
 import java.time.{LocalDate, Period}
 import scala.util.Try
